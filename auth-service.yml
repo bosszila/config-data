@@ -3,7 +3,7 @@ spring:
     driver: con.mysql.jdbc.Driver
     password: springboot
     url: jdbc:mysql://localhost:3306/springboot
-    user: springboot
+    username: springboot
   jpa:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     hibernate:
